@@ -1,4 +1,4 @@
 Cat adoption website
 
-codepen link
+Watch my work in this codepen link or check the repo
 https://codepen.io/benakram4/pen/MWVvzmY
